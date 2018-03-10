@@ -1,0 +1,4 @@
+PI\Faces\job_01.jpg
+PI\Faces\job_02.jpg
+PI\Faces\sar_02.jpg
+PI\Faces\sar_03.jpg
