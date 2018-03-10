@@ -1,0 +1,4 @@
+C:\Users\thomasvj\Desktop\PI\Veg\broccoli.jpg
+C:\Users\thomasvj\Desktop\PI\Veg\carrot.jpg
+C:\Users\thomasvj\Desktop\PI\Veg\cauliflower.jpg
+C:\Users\thomasvj\Desktop\PI\Veg\pumpkin.jpg
